@@ -1,0 +1,12 @@
+body {
+  
+color: white;
+background-image: url(../img/earth.png);
+background-size: cover;
+background-attachment: fixed;
+overflow: hidden;
+}
+ap.img{
+    height: 50px;
+    width: 50px;
+}
